@@ -1,4 +1,4 @@
-# Spida-Phobia
+# Spida-Phobia [![Website](https://img.shields.io/website/https/dyga-entertainment.github.io/spida-phobia.svg)](https://dyga-entertainment.github.io/spida-phobia/)  
 Virtual Reality simulation that helps people suffering from arachnophobia.
 
 ## License
